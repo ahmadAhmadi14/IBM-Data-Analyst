@@ -1,4 +1,4 @@
-In this lesson, you have learned the following information: 
+# In this lesson, you have learned the following information: 
 
 The role of a Data Analyst spans across:
 
