@@ -1,11 +1,3 @@
-# IBM-Data-Analyst
-
-<a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](<https://views.whatilearened.today/views/github/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_.svg?cache=remove>)
-![GitHub top language](<https://img.shields.io/github/languages/top/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_?style=flat>)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_?style=flat)
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
-
 # <a href="https://github.com/bdfd"></a> IBM Data Analyst Professional Certificate(Coursera)
 
 ## About This Course/Certificate
@@ -26,15 +18,16 @@ The courses enlisted as follows:
 - [x] **Course 8-Data Visualization with Python**
 - [x] **Course 9-IBM Data Analyst Capstone Project**
 
-## Course Description: 9 Course
+## What You Will Learn
 
-Power your data analyst career by learning the core principles of data analysis and gaining hands-on skills practice. You’ll work with a variety of data sources, project scenarios, and data analysis tools, including Excel, SQL, Python, Jupyter Notebooks, and Cognos Analytics, gaining practical experience with data manipulation and applying analytical techniques.
-
-This Professional Certificate does not require any prior programming or statistical skills, and is suitable for learners with or without college degrees. All you need to get started is basic computer literacy, high school math, comfort working with numbers, willingness to learn, and a desire to enrich your profile with valuable skills.
+[x] Demonstrate proficiency in using spreadsheets and utilizing Excel to perform a variety of data analysis tasks like data wrangling and data mining
+[x] Develop working knowledge of Python language for analyzing data using Python libraries like Pandas and Numpy, and invoke APIs and Web Services
+[x] Create various charts and plots in Excel & work with IBM Cognos Analytics to build dashboards. Visualize data using Python libraries like Matplotlib
+[x] Describe data ecosystem and Compose queries to access data in cloud databases using SQL and Python from Jupyter notebooks
 
 ## Applied Learning Project
 
-**Tools:** Jupyter / JupyterLab, GitHub,
+**Tools:** Jupyter / JupyterLab, GitHub, IBM DB2, IBM COGNOS
 
 **Libraries:** Pandas, NumPy
 
@@ -42,7 +35,7 @@ This Professional Certificate does not require any prior programming or statisti
 
 ## Course Certificate
 
-Total Hours: ~132 Hrs
+Total Hours: This is a self-paced Professional Certificate that you can complete on your own schedule. Working 10-12 hours a week, you could complete the entire program in just 3 months. If working part time with just 2-3 hours per week, it can take up to 9 months.
 
 <div align="center">
 
