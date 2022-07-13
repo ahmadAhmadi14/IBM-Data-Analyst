@@ -33,6 +33,8 @@ The courses enlisted as follows:
 
 Total Hours: This is a self-paced Professional Certificate that you can complete on your own schedule. Working 10-12 hours a week, you could complete the entire program in just 3 months. If working part time with just 2-3 hours per week, it can take up to 9 months.
 
+**Thanks to : Rav Ahuja**
+
 <div align="center">
 
 ### Thanks For Watch This Repositories!
